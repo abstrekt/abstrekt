@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Samiran, a Web Developer | Constant Learner | Tech Enthusiast - & I like to keep my browser tabs clean.
 
 <!--
 **abstrekt/abstrekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
